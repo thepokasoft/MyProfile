@@ -19,7 +19,7 @@ public class PersonalDetailsService {
 	public PersonalDetailsService()
 	{
 	 personalDetails = new PersonalDetails("Dhyanesh", "Thatchinamoorthy", "t.dhyanesh@gmailcom", "9902296655");
-	 System.out.println(" Initializing details.");
+	 //System.out.println(" Initializing details.");
 	 //Recommendations recommend = new Recommendations("Dhyanesh","t.dhyanesh@gmail.com","This is a recommendtaion for Dhyanesh");
 	 //List<Recommendations> recomend = new ArrayList<Recommendations>();
 	 //recomend.add(recommend);
